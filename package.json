@@ -1,0 +1,22 @@
+{
+  "name": "parkease-platform",
+  "version": "2.0.0",
+  "description": "ParkEase - Smart Parking Management System",
+  "scripts": {
+    "dev:backend": "cd backend && npm start",
+    "dev:frontend": "cd frontend && npm run dev",
+    "start": "cd backend && npm start",
+    "build:frontend": "cd frontend && npm run build"
+  },
+  "keywords": [
+    "parking",
+    "smart-city",
+    "iot",
+    "react",
+    "express",
+    "socket.io",
+    "mongodb"
+  ],
+  "author": "ParkEase Engineering Team",
+  "license": "ISC"
+}
